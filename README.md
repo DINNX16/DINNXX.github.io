@@ -1,6 +1,8 @@
 # 👋 Bem-vindo ao meu perfil!  
 
-![Scooby-Doo GIF](https://media.tenor.com/7IzY7YtW2d0AAAAC/how-do-i-use-computer-dont-understand-computer.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/DvfAaX1ygGcAAAAd/how-do-i-use-computer-don%27t-understand-computer.gif" width="400" />
+</div>
 
 ### 🚀 Sobre Mim
 Estudante de Técnico em Informática pelo SENAC e Programação pela OneBitCode, com certificação em HTML e CSS. Atualmente aprofundando meus conhecimentos em:
