@@ -1,4 +1,6 @@
- ## 👋 Bem-vindo ao meu perfil!  
+<div align="center">
+  <h1>👋 Bem-vindo ao meu perfil!</h1>
+</div> 
 
 <div align="center">
   <img src="https://media1.tenor.com/m/DvfAaX1ygGcAAAAd/how-do-i-use-computer-don%27t-understand-computer.gif" width="400" />
