@@ -30,9 +30,9 @@ HTML5 CSS3 JavaScript PostgreSQL Git|GitHub VS Code
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 🎓 Formação em Andamento
-Técnico em Informática (SENAC)
-UX|Desing (Coursera) 
-Programação Full-Stack (OneBitCode)
+<div>Técnico em Informática (SENAC)</div><br>
+<div>UX|Desing (Coursera)</div><br>
+<div>Programação Full-Stack (OneBitCode)</div><br>
 
 🌱 Metas
 Dominar JavaScript e explorar React.js
